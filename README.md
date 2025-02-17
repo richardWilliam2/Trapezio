@@ -1,2 +1,2 @@
 # Trapezio
-Foi feito pelo androide app
+Foi feito pelo androide studio
